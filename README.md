@@ -2,17 +2,20 @@
 
 # INS: Instructions
 
-ON STARTUP
+ON STARTUP:
+
 As the game starts loading screen text will appear.
 The game will enter the menu from which you can select either practice mode or story mode using the up and down buttons. Click select when the desired mode is on the screen.
 
 
-PRACTICE MODE
+PRACTICE MODE:
+
 When in practice mode, use the left and right buttons to select which part of the game you want to edit - the sequence length, or the number of arrows you want to play with, and the up and down buttons to change the value to the corresponding parameter you want to change. Press select when ready to play game. The screen will flash the commands and tell you when to enter them after a countdown. 
 After the round is over, the game will return to main menu.
 
 
-STORY MODE
+STORY MODE:
+
 When in story mode, the screen will flash a number of commands to the screen depending on the round you reach, starting from 1. After flashing the commands, there will be a countdown and then you can enter the commands. As the game progresses the difficulty increases. Level 10 is the last level. 
 After the mode is over - the user either failed or succeeded, the game will return to main menu.
 
